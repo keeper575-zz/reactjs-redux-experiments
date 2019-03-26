@@ -1,0 +1,27 @@
+{
+  "name": "reactjs-redux-experiments",
+  "version": "1.0.0",
+  "description": "a simple app to experiment a few things",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-redux": "^6.0.1",
+    "react-scripts": "2.1.8",
+    "reactjs": "^1.0.0",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Kumar",
+  "license": "ISC",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
